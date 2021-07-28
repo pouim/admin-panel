@@ -1,0 +1,21 @@
+1 - new ticket must have also description field- now we have only subject field
+
+2 - responses ip of all endpoints is localhost ip 
+
+3 - notifications soceket for new-signal, new-ticket, new-ticket-response, messages from admin, when price set for analyze request
+
+4 - check item 13 of client feedback
+
+5 - send chat_permission field in  /subscriptions/ endpoint
+
+6 - check item 23 of client feedback to develop chatroom logic
+
+7 - add table api
+
+8 - api for sections in landing page ('succesfull analyzes for analyze section, videos, shop section', news section, steps and other parts texts, contact us)
+
+9 - check item 29 of client feedback to implement user logs
+
+10 - recaptcha for login/
+
+11 - check item 20 of client feedback to implement verify by email logic for register/
